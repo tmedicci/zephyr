@@ -8,6 +8,7 @@
 
 int main(void)
 {
+	/* Smart CI validation: this test-path change must select real test work. */
 	printf("Hello World from Console\n");
 	return 0;
 }
