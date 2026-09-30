@@ -8,6 +8,7 @@
 
 int main(void)
 {
+	/* Origin OV-03: smoke this console case through the GitHub import. */
 	printf("Hello World from Console\n");
 	return 0;
 }
