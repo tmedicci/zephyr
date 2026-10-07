@@ -1,0 +1,1 @@
+Admission roster automatic-import validation fixture. Safe to close.
