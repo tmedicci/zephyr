@@ -1,0 +1,1 @@
+Admission roster unauthorized-user validation fixture. Safe to close.
